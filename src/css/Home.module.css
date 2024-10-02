@@ -1,0 +1,28 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .home-container h2 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  .home-container p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .btn {
+    background-color: #f4aca5; 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #e69089; 
+  }
