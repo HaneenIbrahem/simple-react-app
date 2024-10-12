@@ -1,7 +1,7 @@
 import { useFormik } from 'formik';
 import axios from 'axios';
 import * as yup from 'yup';
-import '../css/Login.css';
+import '../css/Login.module.css'
 
 export default function Login() {
   const schema = yup.object({

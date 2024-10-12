@@ -1,6 +1,6 @@
 import { useFormik } from 'formik';
 import axios from 'axios';
-import '../css/Register.css';
+import '../css/Register.module.css';
 
 export default function Register() {
   const formik = useFormik({
